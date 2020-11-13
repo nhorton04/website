@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://nick:Skyl1n31@nickssite.lguag.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "420blazeit"
+}
